@@ -2,7 +2,6 @@
   "name": "owstats-web",
   "version": "1.0.0",
   "description": "owstats web frontend",
-  "author": "Jochen Pylypiw <jochen@pylypiw.com>",
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
